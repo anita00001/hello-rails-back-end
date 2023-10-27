@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1><b>Full Stack App - Backend</b></h1>
+<h1><b>Full Stack App - Back-End</b></h1>
 
 # 📗 Table of Contents
 
@@ -21,9 +21,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 **Hello App - Backend** <a name="about-project"></a>
+# 📖 **Hello App - Back-End** <a name="about-project"></a>
 
-> A **Hello App** is a simple app that generate random greetings. It is the simple example of a Full Stack App with Rails and React. **Hello App - Backend** is the Rails API that generates random greeting for the user.
+> A **Hello App** is a simple app that generate random greetings. It is the simple example of a Full Stack App with Rails and React. **Hello App - Back-End** is the Rails API that generates random greeting for the user.
 
 ## Front-End Link
 > [Click Me](https://github.com/anita00001/hello-react-front-end) to see the **Front-End 🖼**
